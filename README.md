@@ -41,6 +41,7 @@ Encapsulation	Protecting data using private/protected members
 Polymorphism	Method overriding and flexible functionality
 Abstraction	Hiding implementation details using methods/classes
 Constructor (__init__)	Initializing object attributes
+
 **🛠️ Technologies Used**
 
 🐍 Python 3.17
